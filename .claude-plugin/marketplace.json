@@ -1,0 +1,15 @@
+{
+  "name": "security-audit-rs",
+  "owner": {
+    "name": "shleyger-dotcom",
+    "email": "shleyger@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "security-audit-rs",
+      "source": "./",
+      "description": "Security audit skill, /security-audit command and a secret-scan commit hook.",
+      "category": "security"
+    }
+  ]
+}

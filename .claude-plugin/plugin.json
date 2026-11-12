@@ -1,0 +1,11 @@
+{
+  "name": "security-audit-rs",
+  "version": "1.0.0",
+  "description": "Security audit of your own code (Python, JS/TS, Java/Kotlin, C#, Go, Rust, PHP, Ruby, C/C++, mobile, browser extensions, cloud and IaC, configs, PowerShell, shell, AI/LLM apps) and a secret scan that blocks commits containing keys and passwords.",
+  "author": {
+    "name": "shleyger-dotcom",
+    "email": "shleyger@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["security", "audit", "secrets", "owasp", "llm", "pre-commit"]
+}
